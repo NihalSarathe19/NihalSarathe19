@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Nihal Sarathe
+**B.Tech CSE (IoT & Intelligent Systems)** from Manipal University Jaipur
+📍 Based in India | Software & Web Development | ML/AI Enthusiast
 
-<!--
-**NihalSarathe19/NihalSarathe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- Python | Django | Flask
+- JavaScript | Next.js | React
+- SQL | MongoDB | Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Projects
+- **Fraud-Mail-Detection-System** – ML project detecting spam emails
+- **admybrand-ai-suite** – Fullstack SaaS app built with Next.js + Tailwind CSS
+- **hello-api** – Python REST API example
